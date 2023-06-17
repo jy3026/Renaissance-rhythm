@@ -5,20 +5,14 @@
 
 ## 게임 소개
 
-스테이지 선택
-<br/>
+| :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+|                                                     스테이지 선택                                                 |                                                        게임 플레이                                                        |
+|       ![스테이지 선택](https://github.com/jy3026/Renaissance-rhythm/assets/89833446/22f556dd-3093-4263-bb13-d24e3b1f06ba)       |  |
+|                                         스테이지 클리어                                         |                                            상점                                             |
+| ![클리어창](https://github.com/jy3026/Renaissance-rhythm/assets/89833446/c55624ff-f7ec-43d6-9440-8daae0e5c15b) |   ![상점](https://github.com/jy3026/Renaissance-rhythm/assets/89833446/120cade1-9ebe-4e08-9ddf-0fdc456a8900)   |
 
-<img width="480px" src="https://github.com/jy3026/Renaissance-rhythm/assets/89833446/9291a64b-74fd-468a-bc1c-a2178d819121"/>
-<br/>
-게임 플레이
-<br/>
 
-<img width="480px" src="https://github.com/jy3026/Renaissance-rhythm/assets/89833446/00404e7a-2eb6-464f-8dd6-75630056db43"/>
-<br/>
-상점
-<br/>
 
-<img width="480px" src="https://github.com/jy3026/Renaissance-rhythm/assets/89833446/60599149-cee2-4d4d-b25a-a1584a82efb6"/>
 
 
 ## 게임 조작법
